@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Msquare1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end wed development
-- 💞️ I’m looking to collaborate on fullstark jobs and application dev
+- 🌱 I’m currently a front end wed developer
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me +234 9037 945 739 on whatsapp
 
 <!---
