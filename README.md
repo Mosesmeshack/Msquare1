@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Msquare1
+- 👋 Hi, I’m @Mosesmeshack
 - 👀 I’m interested in web development
 - 🌱 I’m currently a front end wed developer
 - 💞️ I’m looking to collaborate on web projects
